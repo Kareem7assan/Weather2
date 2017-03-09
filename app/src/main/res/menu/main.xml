@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="change city"
+
+    android:showAsAction="always"
+    android:id="@+id/city"
+    android:orderInCategory="200"
+
+    tools:ignore="AppCompatResource"></item>
+</menu>
